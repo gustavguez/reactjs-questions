@@ -1,3 +1,4 @@
+```
 ---- Preguntas - REACT ----
 <>
   Qué es React?
@@ -247,3 +248,4 @@
     También para dispatchear acciones solamente dadas determinadas condiciones.
   </>
 </>
+```
